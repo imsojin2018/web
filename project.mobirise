@@ -30,7 +30,8 @@
     "noImageResize": "",
     "versionFirst": "4.7.7",
     "uniqCompNum": 14,
-    "versionPublish": "4.7.7"
+    "versionPublish": "4.7.7",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -142,7 +143,7 @@
               "color": "#000"
             },
             ".mbr-section-lead": {
-              "color": "#9c9a9a"
+              "color": "#b8312f"
             }
           },
           "_params": {
@@ -155,7 +156,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -165,7 +166,7 @@
             "overlayOpacity": 0.5
           },
           "title": "KEN KAMIKITA",
-          "text": "\"SECRET\" in SEOUL<br>2018.06.03(SUN)",
+          "text": "\"SECRET\" in SEOUL<br>2018.06.03(SUNDAY)",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=18006085\" data-toolbar=\"-mbrBtnMove\">RESERVATION NOW</a>",
           "_tags": [
             "Theme"
